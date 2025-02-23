@@ -1,0 +1,6 @@
+*.o
+main
+lua*/src/*.a
+lua*/src/lua
+lua*/src/luac
+compile_flags.txt
